@@ -1,0 +1,8 @@
+Hello I'm Park YiJun;
+You can call reason; It's Similar to My name;
+I wanna be Game Programmer(Client, Server, Engine, etc..);
+So I can use C# for Unity, C++ for Unreal;
+C# is better than C++ a little;
+I can use Github normally;
+
+Study: Backend, Game Server
