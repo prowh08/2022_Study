@@ -1,0 +1,4 @@
+def solution(numbers):
+    answer =sum(range(10))
+    answer-=sum(numbers)
+    return answer
