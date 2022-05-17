@@ -11,6 +11,5 @@ def solution(num):
                 count+=1
     return count
                 
-
 num = int(input())
 print(solution(num))

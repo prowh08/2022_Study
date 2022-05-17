@@ -9,5 +9,6 @@ def solution(num):
     return selfNumber
 
 list = solution(10000)
+
 for num in list:
     print(num)    
