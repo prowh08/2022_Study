@@ -1,3 +1,5 @@
+package Study_2022.programmers.shim.Java.level1;
+
 import java.util.stream.*;
 class Solution {
     public int solution(int[] numbers) {
