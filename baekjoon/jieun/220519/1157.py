@@ -1,5 +1,3 @@
-# dictionary, list comprehend 이용
-
 word = input().upper()
 
 alphaCount = {}
