@@ -1,3 +1,5 @@
+package Study_2022.programmers.shim.Java.level1;
+
 class Solution {
     public int solution(int[] a, int[] b) {
         int answer = 0;
