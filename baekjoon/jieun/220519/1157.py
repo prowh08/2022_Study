@@ -1,4 +1,4 @@
-# dictionary, list apprehend 이용
+# dictionary, list comprehend 이용
 
 word = input().upper()
 
