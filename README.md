@@ -17,6 +17,7 @@
 |2회차|[음양더하기](https://programmers.co.kr/learn/courses/30/lessons/76501)|
 |3회차|[내적](https://programmers.co.kr/learn/courses/30/lessons/70128)|
 |4회차|[소수만들기](https://programmers.co.kr/learn/courses/30/lessons/12977)|
+|5회차|[k번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)|
 
 - 🥐 백준
 
@@ -26,3 +27,4 @@
 |2회차|[아스키 코드](https://www.acmicpc.net/problem/11654)|[숫자의 합](https://www.acmicpc.net/problem/11720)|[알파벳 찾기](https://www.acmicpc.net/problem/10809)|[문자열 ](https://www.acmicpc.net/problem/2675)|
 |3회차|[단어공부](https://www.acmicpc.net/problem/1157)|[단어의 개수](https://www.acmicpc.net/problem/1152)|[상수](https://www.acmicpc.net/problem/2908)|
 |4회차|[다이얼](https://www.acmicpc.net/problem/56227)|[크로아티아 알파벳](https://www.acmicpc.net/problem/2941)|[그룹 단어 체커](https://www.acmicpc.net/problem/1316)|
+|5회차|[손익분기점](https://www.acmicpc.net/problem/1712)|[벌집](https://www.acmicpc.net/problem/2292)|[더하기 사이클](https://www.acmicpc.net/problem/1110)|
