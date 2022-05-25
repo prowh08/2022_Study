@@ -20,7 +20,7 @@
 |5회차|[k번째수](https://programmers.co.kr/learn/courses/30/lessons/42748)|
 |6회차|[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)|
 |7회차|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)|
-|8회차|[폰켄몬](https://programmers.co.kr/learn/courses/30/lessons/1845)|
+|8회차|[폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)|
 
 - 🥐 백준
 
