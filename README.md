@@ -21,6 +21,7 @@
 |6회차|[모의고사](https://programmers.co.kr/learn/courses/30/lessons/42840)|
 |7회차|[체육복](https://programmers.co.kr/learn/courses/30/lessons/42862)|
 |8회차|[폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)|
+|9회차|[약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)|
 
 - 🥐 백준
 
@@ -34,3 +35,4 @@
 |6회차|[분수찾기](https://www.acmicpc.net/problem/1193)|[달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869)|[ACM 호텔](https://www.acmicpc.net/problem/10250)|
 |7회차|[부녀회장이 될테야](https://www.acmicpc.net/problem/2775)|[설탕 배달](https://www.acmicpc.net/problem/2839)|[큰 수 A+B](https://www.acmicpc.net/problem/10757)|
 |8회차|[소수찾기](https://www.acmicpc.net/problem/1978)|[소수](https://www.acmicpc.net/problem/2581)|[소인수분해](https://www.acmicpc.net/problem/11653)|
+|9회차|[소수구하기](https://www.acmicpc.net/problem/1929)|[베르트랑공준](https://www.acmicpc.net/problem/4948)|[골드바흐의 ](https://www.acmicpc.net/problem/9020)|
