@@ -23,6 +23,7 @@
 |8회차|[폰켓몬](https://programmers.co.kr/learn/courses/30/lessons/1845)|
 |9회차|[약수의 개수와 덧셈](https://programmers.co.kr/learn/courses/30/lessons/77884)|
 |10회차|[3진법 뒤집기](https://programmers.co.kr/learn/courses/30/lessons/68935)|
+|11회차|[예산](https://programmers.co.kr/learn/courses/30/lessons/12982)|
 
 - 🥐 백준
 
@@ -38,3 +39,4 @@
 |8회차|[소수찾기](https://www.acmicpc.net/problem/1978)|[소수](https://www.acmicpc.net/problem/2581)|[소인수분해](https://www.acmicpc.net/problem/11653)|
 |9회차|[소수구하기](https://www.acmicpc.net/problem/1929)|[베르트랑공준](https://www.acmicpc.net/problem/4948)|[골드바흐의 추측](https://www.acmicpc.net/problem/9020)|
 |10회차|[팩토리얼](https://www.acmicpc.net/problem/10872)|[피보나치 수5](https://www.acmicpc.net/problem/10870)|[재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478)|
+|11회차|[별 - 찍기10](https://www.acmicpc.net/problem/2447)|[하노이탑 이동 순서](https://www.acmicpc.net/problem/11729)|
