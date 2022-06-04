@@ -1,0 +1,12 @@
+n=int(input())
+t,b,cnt,l=0,0,0,0
+while(cnt<n):
+    l+=1
+    cnt=l*(l+1)//2
+if(l%2==0):
+    t=l-(cnt-n)
+    b=cnt-n+1
+else:
+    t=cnt-n+1
+    b=l-(cnt-n)
+print(t,"/",b,sep="")
