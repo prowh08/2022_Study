@@ -29,6 +29,7 @@
 |14회차|[최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491)|
 |15회차|[나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)|
 |16회차|[부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612)|
+|17회차|[가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)|
 
 - 🥐 백준
 
@@ -50,3 +51,4 @@
 |14회차|[수 정렬하기](https://www.acmicpc.net/problem/2750)|[수 정렬하기2](https://www.acmicpc.net/problem/2751)|[수 정렬하기3](https://www.acmicpc.net/problem/10989)|
 |15회차|[통계학](https://www.acmicpc.net/problem/2108)|[소트인사이드](https://www.acmicpc.net/problem/1427)|
 |16회차|[좌표 정렬하기](https://www.acmicpc.net/problem/11650)|[좌표 정렬하기2](https://www.acmicpc.net/problem/11651)|[단어 정렬](https://www.acmicpc.net/problem/1181)|
+|17회차|[나이순 정렬](https://www.acmicpc.net/problem/10814)|[좌표 압축](https://www.acmicpc.net/problem/18870)|
