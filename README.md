@@ -30,6 +30,7 @@
 |15회차|[나머지가 1이 되는 수 찾기](https://programmers.co.kr/learn/courses/30/lessons/87389)|
 |16회차|[부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612)|
 |17회차|[가운데 글자 가져오기](https://programmers.co.kr/learn/courses/30/lessons/12903)|
+|18회차|[같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)|
 
 - 🥐 백준
 
@@ -52,3 +53,4 @@
 |15회차|[통계학](https://www.acmicpc.net/problem/2108)|[소트인사이드](https://www.acmicpc.net/problem/1427)|
 |16회차|[좌표 정렬하기](https://www.acmicpc.net/problem/11650)|[좌표 정렬하기2](https://www.acmicpc.net/problem/11651)|[단어 정렬](https://www.acmicpc.net/problem/1181)|
 |17회차|[나이순 정렬](https://www.acmicpc.net/problem/10814)|[좌표 압축](https://www.acmicpc.net/problem/18870)|
+|18회차|[숫자 카드](https://www.acmicpc.net/problem/10815)|[문자열 집합](https://www.acmicpc.net/problem/14425)|
