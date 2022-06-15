@@ -33,6 +33,7 @@
 |18회차|[같은 숫자는 싫어](https://programmers.co.kr/learn/courses/30/lessons/12906)|
 |19회차|[나누어 떨어지는 숫자 배열](https://programmers.co.kr/learn/courses/30/lessons/12910)|
 |20회차|[두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)|
+|21회차|[문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915)|
 
 - 🥐 백준
 
@@ -58,3 +59,4 @@
 |18회차|[숫자 카드](https://www.acmicpc.net/problem/10815)|[문자열 집합](https://www.acmicpc.net/problem/14425)|
 |19회차|[나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)|[숫자 카드 2](https://www.acmicpc.net/problem/10816)|[듣보잡](https://www.acmicpc.net/problem/1764)|
 |20회차|[대칭 차집합](https://www.acmicpc.net/problem/1269)|[서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478)|
+|21회차|[직사각형에서 탈출](https://www.acmicpc.net/problem/1085)|[네 번째 점](https://www.acmicpc.net/problem/3009)|[직각삼각형](https://www.acmicpc.net/problem/4153)|
