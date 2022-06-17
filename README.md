@@ -35,6 +35,7 @@
 |20회차|[두 정수 사이의 합](https://programmers.co.kr/learn/courses/30/lessons/12912)|
 |21회차|[문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915)|
 |22회차|[문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916)|
+|23회차|[문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917)|
 
 - 🥐 백준
 
@@ -62,3 +63,4 @@
 |20회차|[대칭 차집합](https://www.acmicpc.net/problem/1269)|[서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478)|
 |21회차|[직사각형에서 탈출](https://www.acmicpc.net/problem/1085)|[네 번째 점](https://www.acmicpc.net/problem/3009)|[직각삼각형](https://www.acmicpc.net/problem/4153)|
 |22회차|[참외밭](https://www.acmicpc.net/problem/2477)|[택시 기하학](https://www.acmicpc.net/problem/3053)|[터렛](https://www.acmicpc.net/problem/1002)|
+|23회차|[어린왕자](https://www.acmicpc.net/problem/1004)|[하키](https://www.acmicpc.net/problem/1358)|
