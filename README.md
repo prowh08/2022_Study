@@ -36,6 +36,7 @@
 |21회차|[문자열 내 마음대로 정렬하기](https://programmers.co.kr/learn/courses/30/lessons/12915)|
 |22회차|[문자열 내 p와 y의 개수](https://programmers.co.kr/learn/courses/30/lessons/12916)|
 |23회차|[문자열 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12917)|
+|24회차|[문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918)|
 
 - 🥐 백준
 
@@ -64,3 +65,4 @@
 |21회차|[직사각형에서 탈출](https://www.acmicpc.net/problem/1085)|[네 번째 점](https://www.acmicpc.net/problem/3009)|[직각삼각형](https://www.acmicpc.net/problem/4153)|
 |22회차|[참외밭](https://www.acmicpc.net/problem/2477)|[택시 기하학](https://www.acmicpc.net/problem/3053)|[터렛](https://www.acmicpc.net/problem/1002)|
 |23회차|[어린왕자](https://www.acmicpc.net/problem/1004)|[하키](https://www.acmicpc.net/problem/1358)|
+|24회차|[배수와 약수](https://www.acmicpc.net/problem/5086)|[약수](https://www.acmicpc.net/problem/1037)|[최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)|
