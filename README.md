@@ -39,6 +39,7 @@
 |24회차|[문자열 다루기 기본](https://programmers.co.kr/learn/courses/30/lessons/12918)|
 |25회차|[서울에서 김서방찾기](https://programmers.co.kr/learn/courses/30/lessons/12919)|
 |26회차|[소수찾기](https://programmers.co.kr/learn/courses/30/lessons/12921)|
+|27회차|[시저암호](https://programmers.co.kr/learn/courses/30/lessons/12926)|
 
 - 🥐 백준
 
@@ -70,3 +71,4 @@
 |24회차|[배수와 약수](https://www.acmicpc.net/problem/5086)|[약수](https://www.acmicpc.net/problem/1037)|[최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609)|
 |25회차|[최소공배수](https://www.acmicpc.net/problem/1934)|[검문](https://www.acmicpc.net/problem/2981)|[링](https://www.acmicpc.net/problem/3036)|
 |26회차|[이항 계수1](https://www.acmicpc.net/problem/11050)|[이항 계수 2](https://www.acmicpc.net/problem/11051)|[다리 놓기](https://www.acmicpc.net/problem/1010)|
+|27회차|[패션왕 신해빈](https://www.acmicpc.net/problem/9375)|[팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)|[조합 0의 개수](https://www.acmicpc.net/problem/2004)|
