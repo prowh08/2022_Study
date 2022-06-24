@@ -1,6 +1,7 @@
 import sys
 
 # 검색함, 근데 이해 안되는 
+
 def cnt5(n):
     answer = 0
     while n!=0:
