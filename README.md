@@ -41,6 +41,8 @@
 |26회차|[소수찾기](https://programmers.co.kr/learn/courses/30/lessons/12921)|
 |27회차|[시저암호](https://programmers.co.kr/learn/courses/30/lessons/12926)|
 |28회차|[수박수박수박수박수박수?](https://programmers.co.kr/learn/courses/30/lessons/12922)|
+|29회차|[문자열을 정수로 바꾸기](https://programmers.co.kr/learn/courses/30/lessons/12925)|
+|30회차|[약수의 합](https://programmers.co.kr/learn/courses/30/lessons/12928)|
 
 - 🥐 백준
 
@@ -74,3 +76,5 @@
 |26회차|[이항 계수1](https://www.acmicpc.net/problem/11050)|[이항 계수 2](https://www.acmicpc.net/problem/11051)|[다리 놓기](https://www.acmicpc.net/problem/1010)|
 |27회차|[패션왕 신해빈](https://www.acmicpc.net/problem/9375)|[팩토리얼 0의 개수](https://www.acmicpc.net/problem/1676)|[조합 0의 개수](https://www.acmicpc.net/problem/2004)|
 |28회차|[N과 M(1)](https://www.acmicpc.net/problem/15649)|[N과 M(2)](https://www.acmicpc.net/problem/15650)|[N과 M(3)](https://www.acmicpc.net/problem/15651)|
+|29회차|[N과 M(4)](https://www.acmicpc.net/problem/15652)|[N-Queen](https://www.acmicpc.net/problem/9663)|
+|30회차|[스도쿠](https://www.acmicpc.net/problem/2580)|[연산자 끼워넣기](https://www.acmicpc.net/problem/148888)|[스타트와 링크](https://www.acmicpc.net/problem/14889)|
