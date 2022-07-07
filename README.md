@@ -46,6 +46,9 @@
 |31회차|[이상한 문자 만들기](https://programmers.co.kr/learn/courses/30/lessons/12930)|
 |32회차|[자릿 수 더하기](https://programmers.co.kr/learn/courses/30/lessons/12931)|
 |33회차|[자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932)|
+|34회차|[정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933)|
+|35회차|[정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934)|
+
 
 - 🥐 백준
 
@@ -84,3 +87,5 @@
 |31회차|[알고리즘 수업 - 피보나치 수 1](https://www.acmicpc.net/problem/24416)|[신나는 함수 실행](https://www.acmicpc.net/problem/9184)|[01타일](https://www.acmicpc.net/problem/1904)
 |32회차|[파도반 수열](https://www.acmicpc.net/problem/9461)|[연속합](https://www.acmicpc.net/problem/1912)|[RGB거리](https://www.acmicpc.net/problem/1149)
 |33회차|[정수 삼각형](https://www.acmicpc.net/problem/1932)|[계단 오르기](https://www.acmicpc.net/problem/2579)|[1로 만들기](https://www.acmicpc.net/problem/1463)
+|34회차|[쉬운 계단 수](https://www.acmicpc.net/problem/10844)|[포도주 시식](https://www.acmicpc.net/problem/2156)|[가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)
+|35회차|[가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)|[전깃줄](https://www.acmicpc.net/problem/2565)|
