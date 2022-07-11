@@ -48,6 +48,8 @@
 |33회차|[자연수 뒤집어 배열로 만들기](https://programmers.co.kr/learn/courses/30/lessons/12932)|
 |34회차|[정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933)|
 |35회차|[정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934)|
+|36회차|[제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935)|
+|36회차|[짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937)|
 
 
 - 🥐 백준
@@ -89,3 +91,5 @@
 |33회차|[정수 삼각형](https://www.acmicpc.net/problem/1932)|[계단 오르기](https://www.acmicpc.net/problem/2579)|[1로 만들기](https://www.acmicpc.net/problem/1463)
 |34회차|[쉬운 계단 수](https://www.acmicpc.net/problem/10844)|[포도주 시식](https://www.acmicpc.net/problem/2156)|[가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053)
 |35회차|[가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054)|[전깃줄](https://www.acmicpc.net/problem/2565)|
+|36회차|[LCS](https://www.acmicpc.net/problem/9251)|[평범한 배낭](https://www.acmicpc.net/problem/12865)|
+|37회차|[구간 합 구하기 4](https://www.acmicpc.net/problem/11659)|[수열](https://www.acmicpc.net/problem/2559)|[인간-컴퓨터 상호작용](https://www.acmicpc.net/problem/16139)
