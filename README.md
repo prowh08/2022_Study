@@ -49,7 +49,7 @@
 |34회차|[정수 내림차순으로 배치하기](https://programmers.co.kr/learn/courses/30/lessons/12933)|
 |35회차|[정수 제곱근 판별](https://programmers.co.kr/learn/courses/30/lessons/12934)|
 |36회차|[제일 작은 수 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12935)|
-|36회차|[짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937)|
+|37회차|[짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937)|
 
 
 - 🥐 백준
