@@ -52,6 +52,8 @@
 |37회차|[짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937)|
 |38회차|[최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940)|
 |39회차|[콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943)|
+|40회차|[-]|
+|41회차|[-]|
 
 
 - 🥐 백준
@@ -97,3 +99,5 @@
 |37회차|[구간 합 구하기 4](https://www.acmicpc.net/problem/11659)|[수열](https://www.acmicpc.net/problem/2559)|[인간-컴퓨터 상호작용](https://www.acmicpc.net/problem/16139)
 |38회차|[나머지 합](https://www.acmicpc.net/problem/10986)|[구간 합 구하기 5](https://www.acmicpc.net/problem/11660)|[동전 0](https://www.acmicpc.net/problem/11047)|
 |39회차|[회의실 배정](https://www.acmicpc.net/problem/1931)|[ATM](https://www.acmicpc.net/problem/11399)|
+|40회차|[참외밭](https://www.acmicpc.net/problem/2477)|[택시 기하학](https://www.acmicpc.net/problem/3053)|
+|41회차|[터렛](https://www.acmicpc.net/problem/1002)|[검문](https://www.acmicpc.net/problem/2981)|
