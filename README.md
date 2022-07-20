@@ -54,6 +54,8 @@
 |39회차|[콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943)|
 |40회차|[-]|
 |41회차|[-]|
+|42회차|[평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944)|
+|43회차|[하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947)|
 
 
 - 🥐 백준
@@ -101,3 +103,5 @@
 |39회차|[회의실 배정](https://www.acmicpc.net/problem/1931)|[ATM](https://www.acmicpc.net/problem/11399)|
 |40회차|[참외밭](https://www.acmicpc.net/problem/2477)|[택시 기하학](https://www.acmicpc.net/problem/3053)|
 |41회차|[터렛](https://www.acmicpc.net/problem/1002)|[검문](https://www.acmicpc.net/problem/2981)|
+|42회차|[잃어버린 괄호](https://www.acmicpc.net/problem/1541)|[주유소](https://www.acmicpc.net/problem/13305)|
+|43회차|[스택](https://www.acmicpc.net/problem/10828)|[제로](https://www.acmicpc.net/problem/10773)|[괄호](https://www.acmicpc.net/problem/9012)|
