@@ -52,8 +52,8 @@
 |37회차|[짝수와 홀수](https://school.programmers.co.kr/learn/courses/30/lessons/12937)|
 |38회차|[최대공약수와 최소공배수](https://school.programmers.co.kr/learn/courses/30/lessons/12940)|
 |39회차|[콜라츠 추측](https://school.programmers.co.kr/learn/courses/30/lessons/12943)|
-|40회차|[-]|
-|41회차|[-]|
+|40회차|
+|41회차|
 |42회차|[평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944)|
 |43회차|[하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947)|
 
