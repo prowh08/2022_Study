@@ -56,7 +56,8 @@
 |41회차|
 |42회차|[평균 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/12944)|
 |43회차|[하샤드 수](https://school.programmers.co.kr/learn/courses/30/lessons/12947)|
-
+|44회차|
+|45회차|
 
 - 🥐 백준
 
@@ -105,3 +106,5 @@
 |41회차|[터렛](https://www.acmicpc.net/problem/1002)|[검문](https://www.acmicpc.net/problem/2981)|
 |42회차|[잃어버린 괄호](https://www.acmicpc.net/problem/1541)|[주유소](https://www.acmicpc.net/problem/13305)|
 |43회차|[스택](https://www.acmicpc.net/problem/10828)|[제로](https://www.acmicpc.net/problem/10773)|[괄호](https://www.acmicpc.net/problem/9012)|
+|44회차|[조합 0의 개수](https://www.acmicpc.net/problem/2004)|[N-Queen](https://www.acmicpc.net/problem/9663)|
+|45회차|[스도쿠](https://www.acmicpc.net/problem/2580)|[연산자 끼워넣기](https://www.acmicpc.net/problem/148888)|[스타트와 링크](https://www.acmicpc.net/problem/14889)|
